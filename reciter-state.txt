@@ -1,0 +1,14 @@
+reciter=1
+sura=56
+currentAya=42
+ayaStart=1
+ayaEnd=96
+ayaRepeatCount=1
+ayaWait=0
+groupRepeatCount=1
+afterAyaWait=1000
+mode=0
+images=0
+download_only=0
+aya_repeat_forever=0
+sura_repeat_forever=1
