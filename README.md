@@ -5,4 +5,4 @@ MP3s and images are downloaded as needed only once and reused.
 
 To use just download all this repo to any folder and launch run.cmd
 
-will be adjusted for linux later inshallah.
+currently works for windows but will be adjusted for linux later inshallah.
