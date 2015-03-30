@@ -1,0 +1,3 @@
+Quran Reciter Help
+
+help | /? | ?  : displays this help message
